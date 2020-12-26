@@ -1,2 +1,2 @@
 # booktoaudiobook
- Um simples script em python que transforma um pdf em audio book
+Um script em python que transforma PDF em audiobook
